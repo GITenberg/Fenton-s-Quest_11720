@@ -1,0 +1,40 @@
+_repo: Fenton-s-Quest_11720
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Braddon, M. E. (Mary Elizabeth)
+    aliases:
+    - White, Babington
+    - Breddon, Miss
+    - Braddon, Mary Elizabeth
+    - Maxwell, Mary Elizabeth Braddon
+    birthdate: 1835
+    deathdate: 1915
+    gutenberg_agent_id: '2957'
+    url: http://www.gutenberg.org/2009/agents/2957
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Elizabeth_Braddon
+description: Chapter I; The Common Fever; Chapter II; Marian's Story; Chapter III;
+  Accepted; Chapter IV; John Saltram; Chapter V; Halcyon Days; Chapter VI; Sentence
+  of Exile; Chapter VII; "Good-Bye"; Chapter VIII; Missing; Chapter IX; John Saltram's
+  Advice; Chapter X; Jacob Nowell; Chapter XI; The Marriage at Wygrove; Chapter XII;
+  A Friendly Counsellor; Chapter XIII; Mrs. Pallinson Has Views; Chapter XIV; Father
+  and Son; Chapter XV; On the Track; Chapter XVI; Face to Face; Chapter XVII; Miss
+  Carley's Admirers; Chapter XVIII; Jacob Nowell's Will; Chapter XIX; Gilbert Asks
+  a Question; Chapter XX.
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11720'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Courtship -- Fiction'
+- !lcsh 'Unrequited love -- Fiction'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Social classes -- Fiction'
+- GITenberg
+title: Fenton's Quest
+url: http://www.gutenberg.org/ebooks/11720
