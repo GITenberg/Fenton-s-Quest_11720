@@ -1,5 +1,8 @@
 _repo: Fenton-s-Quest_11720
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Braddon, M. E. (Mary Elizabeth)
@@ -21,6 +24,8 @@ description: Chapter I; The Common Fever; Chapter II; Marian's Story; Chapter II
   and Son; Chapter XV; On the Track; Chapter XVI; Face to Face; Chapter XVII; Miss
   Carley's Admirers; Chapter XVIII; Jacob Nowell's Will; Chapter XIX; Gilbert Asks
   a Question; Chapter XX.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11720#Fenton-s-Quest
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
 identifiers:
